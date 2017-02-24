@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think",
+    "name": "csi0n/debug",
     "description": "the new thinkphp framework",
     "type": "project",
     "keywords": ["debug", "dd"],
