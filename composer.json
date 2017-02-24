@@ -15,8 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "csi0n\\Debug\\"
+            "csi0n\\Debug\\": "src/"
         },
-        "files": ["helpers/helper.php"]
+        "files": ["src/helpers/helper.php"]
     }
 }
